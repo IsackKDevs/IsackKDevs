@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsackKDevs
-- 👀 I’m interested in Programming and bettering mu community
+- 👀 I’m interested in Programming and bettering my community
 - 🌱 I’m currently learning Python, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
